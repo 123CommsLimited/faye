@@ -12,7 +12,7 @@
 
 , "dependencies"    : { "csprng": ""
                       , "faye-websocket": ">=0.9.1"
-                      , "tough-cookie": ""
+                      , "tough-cookie": "2.5.0"
                       , "tunnel-agent": ""
                       }
 , "devDependencies" : { "jstest": "~1.0.0"
